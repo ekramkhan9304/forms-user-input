@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/forms-user-input/static/css/main.cc5bbd08.css",
+    "main.js": "/forms-user-input/static/js/main.308f16b5.js",
+    "static/js/787.010d6329.chunk.js": "/forms-user-input/static/js/787.010d6329.chunk.js",
+    "index.html": "/forms-user-input/index.html",
+    "main.cc5bbd08.css.map": "/forms-user-input/static/css/main.cc5bbd08.css.map",
+    "main.308f16b5.js.map": "/forms-user-input/static/js/main.308f16b5.js.map",
+    "787.010d6329.chunk.js.map": "/forms-user-input/static/js/787.010d6329.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc5bbd08.css",
+    "static/js/main.308f16b5.js"
+  ]
+}
